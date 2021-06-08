@@ -1,23 +1,17 @@
 # React-Basic-Projects
 
-#### All Projects
-
-<!-- [Projects Site]() -->
-
-## Corresponding Tutorial Topics
-
 #### useState
 
-1. [Birthday Reminder](https://romantic-liskov-8b9ef3.netlify.app/)
+1. [Birthday Reminder](https://birthday-reminder06.netlify.app)
 
 #### useEffect and Conditional Rendering
 
-2. [Tours](https://trips-listing.netlify.app/)
-3. Reviews
-4. Questions
-5. Menu
-6. Tabs
-7. Slider
+2. [Tours](https://tours-reactjs06.netlify.app)
+3. [Reviews] (https://reviews-reactjs06.netlify.app)
+4. [Questions] (https://accordion06.netlify.app)
+5. [Menu] (https://menu06.netlify.app)
+6. [Tabs] (https://tabs-setup06.netlify.app)
+7. [Slider] (https://react-slider06.netlify.app)
 
 #### Forms
 

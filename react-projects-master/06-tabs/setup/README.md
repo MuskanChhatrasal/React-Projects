@@ -1,3 +1,3 @@
 #### Tabs-Project
 
-### Live Preview: (project link)
+### Live Preview: https://tabs-setup06.netlify.app

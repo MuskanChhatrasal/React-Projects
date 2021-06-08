@@ -1,3 +1,3 @@
 ## Reviews Project
 
-### reviews-reactjs06.netlify.app
+### https://reviews-reactjs06.netlify.app

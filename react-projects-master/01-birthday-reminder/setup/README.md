@@ -1,6 +1,6 @@
 ## Craeted This Birthday Reminder Using React.js
 
-[project link](birthday-reminder06.netlify.app)
+[project link](https://birthday-reminder06.netlify.app)
 
 ## Key Points :
 

@@ -1,3 +1,3 @@
 # react-projects-7-slider
 
-#### Live Preview (project link)
+#### Live Preview https://react-slider06.netlify.app
