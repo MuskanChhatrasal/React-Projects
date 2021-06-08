@@ -1,3 +1,3 @@
 # Menu Project
 
-### Live Preview: (project link)
+### Live Preview: https://menu06.netlify.app

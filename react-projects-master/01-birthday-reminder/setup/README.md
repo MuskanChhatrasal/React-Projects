@@ -1,6 +1,6 @@
 ## Craeted This Birthday Reminder Using React.js
 
-[project link](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+[project link](birthday-reminder06.netlify.app)
 
 ## Key Points :
 

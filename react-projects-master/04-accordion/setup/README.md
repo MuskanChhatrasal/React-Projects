@@ -1,6 +1,6 @@
 ### Accordion
 
-### (project link)
+### https://accordion06.netlify.app
 
 #### React Icons
 
