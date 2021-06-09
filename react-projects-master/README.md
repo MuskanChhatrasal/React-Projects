@@ -15,7 +15,7 @@
 
 #### Forms
 
-8. Lorem Ipsum Generator
+8. [Lorem Ipsum Generator](https://lorem-ipsum-generator06.netlify.app)
 9. Color Shades Generator
 10. Grocery Bud
 
