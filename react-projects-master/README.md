@@ -17,7 +17,7 @@
 
 8. [Lorem Ipsum Generator](https://lorem-ipsum-generator06.netlify.app)
 9. [Color Shades Generator](https://color-shades-generator06.netlify.app)
-10. Grocery Bud
+10. [Grocery Bud](https://grocery-bud06.netlify.app)
 
 #### useRef
 
